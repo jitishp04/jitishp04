@@ -4,6 +4,10 @@
 
 <p align="left">My name is Jitish Rajankumar Padhya  and I'm a 2nd year student studying Software Engineering & Management at Gothenburg University (BSc)</p>
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jitshp&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+###
+
 ###
 
 <h2 align="left">Coding languages</h2>
