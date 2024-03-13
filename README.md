@@ -3,10 +3,9 @@
 ###
 
 <p align="left">My name is Jitish Rajankumar Padhya  and I'm a 2nd year student studying Software Engineering & Management at Gothenburg University (BSc)</p>
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jitshp&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jitishp04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -47,3 +46,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
+
+###
+
+<h2 align="left">Leetcode Stats</h2>
+
+###
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jitshp&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
