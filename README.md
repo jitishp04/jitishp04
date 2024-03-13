@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hi there 👋</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Jitish Rajankumar Padhya  and I'm a 2nd year student studying Software Engineering & Management at Gothenburg University (BSc)</p>
 
 ###
 
