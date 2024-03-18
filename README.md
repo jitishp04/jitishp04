@@ -54,3 +54,8 @@
 </div>
 
 ###
+
+<h2 align="left">Leetcode Stats</h2>
+
+###
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jitshp&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
