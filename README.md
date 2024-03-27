@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jitish Rajankumar Padhya  and I'm a 2nd year student studying Software Engineering & Management at Gothenburg University (BSc)</p>
+<p align="left">My name is Jitish Rajankumar Padhya and I'm a 2nd year student studying Software Engineering & Management at Gothenburg University (BSc).</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jitishp04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -55,6 +55,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
 </div>
 
 ###
