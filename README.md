@@ -35,7 +35,7 @@
 
 ###
 
-<h2 align="left">Digital Skills (used or currently learning) </h2>
+<h2 align="left">Digital Skills </h2>
 
 ###
 
