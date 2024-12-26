@@ -82,6 +82,9 @@
 </div>
 
 ###
+<h2 align="left">Language Stats</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jitishp04&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
 
 <h2 align="left">Leetcode Stats</h2>
 
