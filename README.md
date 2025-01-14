@@ -89,7 +89,7 @@
 ###
 <h2 align="left">Language Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jitishp04&layout=compact&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jitishp04&layout=compact&hide=jupyter%20notebook,css&exclude_repo=steering-wheel-algorithm)
 
 <h2 align="left">Leetcode Stats</h2>
 
