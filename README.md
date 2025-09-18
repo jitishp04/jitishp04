@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jitish Rajankumar Padhya and I'm a 3rd (final) year student studying Software Engineering & Management at Gothenburg University (BSc).</p>
+<p align="left">My name is Jitish Rajankumar Padhya and I'm a master's student in Data Science, Statistics, and Decision Analysis in Stockholm University. I have finished my studies of Software Engineering & Management at Gothenburg University (BSc).</p>
 
 ###
 
