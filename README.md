@@ -26,6 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+
 </div>
 
 ###
@@ -73,6 +76,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 
 
 ###
@@ -87,11 +94,8 @@
 </div>
 
 ###
-<h2 align="left">Language Stats</h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jitishp04&layout=compact&hide=jupyter%20notebook,css&exclude_repo=steering-wheel-algorithm)
-
-<h2 align="left">Leetcode Stats</h2>
-
-###
-[Leetcode profile page](https://leetcode.com/u/jitshp/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jitishp04/jitishp04/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jitishp04/jitishp04/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jitishp04/jitishp04/output/pacman-contribution-graph.svg">
+</picture>
