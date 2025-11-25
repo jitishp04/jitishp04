@@ -82,18 +82,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 
 
-###
 
-
-</div>
-
-###
-</div>
-
-###
-</div>
-
-###
-<img src="https://raw.githubusercontent.com/jitishp04/jitishp04/output/snake.svg" alt="Snake animation" />
-
-###
